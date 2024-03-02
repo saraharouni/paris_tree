@@ -45,18 +45,9 @@ Le jeu de données comprend des informations détaillées sur les arbres de la v
 ## Démarche Méthodologique d'Analyse de Données
 1. **Exploration initiale :** Comprendre la structure des données, identifier les variables clés.
 2. **Nettoyage des données :** Gérer les valeurs manquantes, éliminer les doublons, etc.
-3. **Analyse descriptive :** Visualiser la distribution des variables, identifier les tendances.
-4. **Analyse par espèce :** Examiner les spécificités liées à chaque espèce d'arbre.
-5. **Géolocalisation :** Utiliser des outils de cartographie pour comprendre la répartition spatiale des arbres.
-
-## Synthèse de l'Analyse de Données
-Notre analyse détaillée mettra en lumière des opportunités pour optimiser les tournées d'entretien, en prenant en compte des facteurs tels que la répartition géographique, l'état de développement des arbres, etc.
-
-## Présentation Finale
-En tant que binôme, nous aurons 15 minutes pour présenter nos résultats et nos recommandations pour une gestion plus efficace des arbres de la ville de Paris.
-
-## Notebook Jupyter
-Le deuxième livrable consistera en un Notebook Jupyter documenté. Chaque étape, traitement et graphique seront expliqués de manière à être compréhensibles par un public non technique. Nous nous efforcerons de rendre notre analyse transparente et accessible.
+3. **Analyse descriptive :** Visualiser la distribution des arbres selon leur stade de développement et leur domanialité.
+4. **Analyse par espèce :** Rechercher le top 5 des arbres les plus répandus
+5. **Géolocalisation :** Utilisation de géopandas pour afficher les données sur une carte de Paris.
 
 ## Clonage du Répertoire Git pour les Données
 Si vous souhaitez accéder au jeu de données, vous pouvez cloner notre répertoire Git en utilisant la commande suivante dans votre terminal :
