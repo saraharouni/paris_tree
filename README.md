@@ -31,4 +31,4 @@ Le deuxième livrable consistera en un Notebook Jupyter documenté. Chaque étap
 ## Clonage du Répertoire Git pour les Données
 Si vous souhaitez accéder au jeu de données, vous pouvez cloner notre répertoire Git en utilisant la commande suivante dans votre terminal :
 ```bash
-git clone [lien_du_repertoire_git](https://github.com/saraharouni/paris_tree.git)https://github.com/saraharouni/paris_tree.git
+git clone https://github.com/saraharouni/paris_tree.git)https://github.com/saraharouni/paris_tree.git
